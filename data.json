@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 35,
+      "email": "johndoe@google.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "age": 30,
+      "email": "janedoe@google.com"
+    },
+    {
+      "id": "3",
+      "firstName": "Sarah",
+      "lastName": "Brown",
+      "age": 23,
+      "email": "sarah@google.com"
+    },
+    {
+        "id": "4",
+        "firstName": "Andy",
+        "lastName": "Garcia",
+        "age": 51,
+        "email": "andy@google.com"
+    },
+    {
+      "firstName": "Kadir",
+      "lastName": "İnanır",
+      "age": 65,
+      "email": "delikadir@gmail.com",
+      "id": "Xl0JJCZ"
+    }
+  ]
+}
